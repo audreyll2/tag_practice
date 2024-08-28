@@ -1,2 +1,1 @@
-# tag_practice
-Code from Week 1 for SI class
+# W01-TagExercise
